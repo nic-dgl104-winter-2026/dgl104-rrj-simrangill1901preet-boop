@@ -7,7 +7,7 @@ To understand this better, I researched a few common design patterns such as Sin
 
 I also completed the reading on how to contribute to open source, which honestly changed how I think about contributions. Before this, I thought contributing meant writing complex code, but now I understand that even small things like fixing documentation or reporting issues count as contributions.
 
-After that, I explored GitHub more seriously. I looked at trending repositories and also checked beginner-friendly platforms like “good first issue.” I tried to find projects related to Python since I am planning to use it for my coding project. Some repositories looked interesting, but I also noticed that many of them are quite complex, which made me realize I need to start small.
+After that, I explored GitHub more seriously. I looked at trending repositories and also checked beginner-friendly platforms like “good first issue.” I tried to find projects related to Python. Some repositories looked interesting, but I also noticed that many of them are quite complex, which made me realize I need to start small.
 
 I also analyzed a few repositories by checking their issues, contribution guidelines, and activity. This helped me understand how to judge whether a project is suitable for beginners or not.
 
