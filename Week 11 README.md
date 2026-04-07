@@ -14,7 +14,7 @@ I spent time understanding how these concepts work together. For example, encaps
 
 I also reviewed examples from the lecture, such as the BankAccount class, which helped me understand how real-world systems can be modeled using OOP concepts.
 
-As part of the required activity, I carefully went through the OOP documentation and started thinking about how I would apply OOP in my programming assignment. Since I am planning to use Python, I explored how Python supports OOP concepts such as classes, objects, and inheritance.
+As part of the required activity, I carefully went through the OOP documentation and started thinking about how I would apply OOP in my programming assignment. From my understanding, Python supports OOP, I explored how Python supports OOP concepts such as classes, objects, and inheritance.
 
 I also worked on the follow-up task where I analyzed whether my chosen programming language supports OOP. From my understanding, Python supports OOP quite strongly, while also allowing other programming styles such as functional programming.
 
