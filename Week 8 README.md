@@ -11,7 +11,7 @@ I also created more specific versions of this story, such as playing songs offli
 
 Another activity I completed was exploring GitHub. I went through the Explore and Trending sections and starred a few repositories that were beginner-friendly, especially those related to Python. This gave me a better idea of how developers share projects and collaborate in real-world environments.
 
-Finally, I began thinking about my coding project for the semester. At this point, I am considering using Python because it is widely used and easier to learn compared to other languages.
+Finally, I began thinking about my coding project for the semester. I also began thinking about my coding project and started planning how I would structure it using basic web development tools like HTML and CSS.
 
 ## What I Learned
 
